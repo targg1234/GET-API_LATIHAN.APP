@@ -1,6 +1,6 @@
 # latihan_4
 
-A new Flutter project.
+Pembelajaran Get-API dengan Bloc
 
 ## Getting Started
 

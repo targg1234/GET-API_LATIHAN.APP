@@ -54,6 +54,4 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-git remote add origin https://github.com/targg1234/GET-API_LATIHAN.APP.git
-git branch -M main
-git push -u origin main
+x
