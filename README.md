@@ -1,6 +1,26 @@
 # Product_app
 
-produk
+Memakai API untuk GET product dan beserta halaman detailnya ketika kita klik product yang mau di lihat,
+
+Tampilan awal: 
+-Gambar produk
+-Nama Produk
+-kategory Produk
+-rating produk
+-harga produk
+-stok produk
+
+Tampilan halaman detail : 
+-Gambar produk
+-Nama Produk
+-kategory Produk
+-harga produk
+-diskon produk
+-rating produk
+-deskripksi produk
+-Barcode produk
+-Qr Code produk
+-Customer reviews
 
 ## 📸 Preview
 
