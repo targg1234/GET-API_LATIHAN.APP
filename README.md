@@ -1,16 +1,13 @@
-# latihan_4
+# Product_app
 
-Pembelajaran Get-API dengan Bloc
+VibeX adalah aplikasi memposting utas/status ,berbagi pengalaman pribadi, menuangkan pikiran ,curhat, dsb.
 
-## Getting Started
+## 📸 Preview
 
-This project is a starting point for a Flutter application.
+Berikut adalah beberapa tangkapan layar aplikasi:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Gambar 1](assets/images/image_1.png)
+![Gambar 2](assets/images/image_2.png)
+![Gambar 3](assets/images/image_3.png)
+![Gambar 4](assets/images/image_4.png)
+![Gambar 5](assets/images/image_5.png)
